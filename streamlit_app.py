@@ -1,7 +1,7 @@
 import streamlit
 
 
-streamlit.header('Breakfast Menu')
+streamlit.header('Breakfast Favorites')
 
 streamlit.text('🥣 omega 3 & Bulebeery oatmeal')
 
